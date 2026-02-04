@@ -16,3 +16,7 @@ program (Java dan Python) menggunakan struktur data array (fixed-size array) den
 7.    Delete first occurence
 8.    Show data
 9.    Exit
+
+# Video Demo
+Klik link di bawah ini untuk melihat video demo program:
+[Tonton Video Demo di Google Drive](https://drive.google.com/file/d/1MIQD0iTe-fDg7rHgAsrz9p7FMFgQqyPU/view?usp=sharing)
