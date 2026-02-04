@@ -1,4 +1,4 @@
-# Tugas-Struktur-Data-Array
+# Tugas-Struktur-Data-Array - Data Mahasiswa
 **Nama**   : Hesti Febriyani <br>
 **NIM**    : 24106050010 <br>
 **Kelas**  : A
