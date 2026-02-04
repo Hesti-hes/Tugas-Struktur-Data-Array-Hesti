@@ -1,7 +1,7 @@
 # Tugas-Struktur-Data-Array
-- **Nama**   : Hesti Febriyani
-- **NIM**    : 24106050010
-- **Kelas**  : A
+**Nama**   : Hesti Febriyani <br>
+**NIM**    : 24106050010 <br>
+**Kelas**  : A
 
 # Description
 program (Java dan Python) menggunakan struktur data array (fixed-size array) dengan kapasitas 10, untuk menyimpan sejumlah data mahasiswa (nim dan nama).
